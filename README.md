@@ -8,3 +8,5 @@ GameControl.cs — The entire game state code. Provides who moves, movement UI, 
 Dice.cs — The dice rolling and registration code. Provides the 'rolling animation' and number registration features.
 
 FollowThePath.cs — The waypoint management code. Provides the movent and waypoint space movement features.
+
+Impori.mov — A visual representation of Impori working on my computer with the file uploaded into this repository.
